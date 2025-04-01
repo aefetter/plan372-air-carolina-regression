@@ -21,7 +21,6 @@ The model doesn’t account for seasonality, competition from other airlines, or
 
 
 ## 2. Market Saturation at RDU
-most popular routes, include the scatter plots
 RDU currently has 34 departing direct flights. The five most popular outbound routes from RDU between October 2021 and September 2022 were Atlanta (ATL, 540,190 passengers), Charlotte (CLT, 370,480), New York–LaGuardia (LGA, 272,810), Orlando (MCO, 259,640), and Denver (DEN, 226,520). The list of direct flights is dominated by major airline hubs and major US cities. Only one direct route from RDU serves a metro area with fewer than 1 million residents: Trenton–Princeton, NJ. However, that route likely functions as a proxy for larger nearby markets, as Trenton is located less than 60 miles from both Manhattan and Philadelphia.
 
 ## 3. Regression: What drives air travel demand?
